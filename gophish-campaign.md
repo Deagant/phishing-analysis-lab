@@ -39,11 +39,15 @@ La campagne a été créée et les 4 emails envoyés à 9h57:28.
 
 1 utilisateur sur 4 a cliqué sur le lien — taux de clic : **25%**.
 
+![GoPhish — résultats de campagne, 4 cibles fictives](assets/gophish-campaign-results.png)
+
 **Détail pour Random User3 :**
 - Email reçu : 9h57:29
 - Premier clic : 9h58:22 (54 secondes après réception)
 - Deuxième clic : 10h00:54
 - Navigateur : Firefox 128.0 — Linux x86_64
+
+![GoPhish — timeline Random User3, Firefox 128 / Linux, clic en 54 secondes](assets/gophish-timeline-user3.png)
 
 GoPhish enregistre pour chaque clic : l'heure, le navigateur, l'OS et l'identifiant de résultat.
 Ces métadonnées permettent, dans un vrai test de sensibilisation, de cibler les utilisateurs
