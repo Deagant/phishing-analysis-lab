@@ -163,5 +163,5 @@ Les deux emails présentent des indicateurs clairs de phishing probable.
 `mail 33` repose sur l'usurpation de marque (Stripe) et un lien externe hébergé en cloud.
 `mail 21` repose sur le display name spoofing, technique simple mais efficace sur des utilisateurs non sensibilisés.
 
-Dans un contexte SOC, ces deux emails auraient justifié une alerte et une mise en quarantaine
-en attente d'analyse des headers complets et d'une vérification de réputation des artefacts.
+J'aurais mis les deux en quarantaine — les IOCs documentés justifient au minimum un blocage préventif
+et une recherche dans les autres boîtes de réception.
