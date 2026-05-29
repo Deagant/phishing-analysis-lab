@@ -12,6 +12,10 @@
 | `mail 33.eml` | ⚠️ Phishing probable | Lien vers un PDF externe hébergé sur Amazon S3, thème Stripe |
 | `mail 21.eml` | ⚠️ Phishing probable | Incohérence display name / adresse réelle (display name spoofing) |
 
+> Note personnelle : le mail 33 m'a d'abord semblé légitime — Stripe héberge des choses sur S3
+> et le PDF "secure_report" m'aurait peut-être trompé si je n'avais pas vérifié le domaine.
+> C'est ça le vrai objectif de ce genre d'exercice.
+
 ---
 
 ## Cas 1 — Mail 33
