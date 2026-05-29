@@ -69,6 +69,6 @@ Objectif : comprendre le tracking GoPhish (clic, heure, OS, navigateur) pour mie
 
 ## Avertissement
 
-Exercices réalisés dans un cadre légal, éducatif et autorisé.  
-Les adresses email et noms dans la simulation GoPhish sont entièrement fictifs.  
+Lab réalisé sur environnement Jedha dédié. Les adresses et noms utilisés dans GoPhish sont entièrement fictifs — aucune cible réelle.  
+Les IOCs des emails suspects sont publiés car ils constituent des indicateurs de menace documentés.  
 Les IOCs des emails suspects sont publiés car ils constituent des indicateurs de menace documentés.
